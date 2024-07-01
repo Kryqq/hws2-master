@@ -1,3 +1,6 @@
 .loader {
-    /*свг и/или анимация*/
+   width: 100px;
+   height: 100px;
+   background-repeat: no-repeat;
+   background-image: url('./Spinner-3.gif');
 }
